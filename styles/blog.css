@@ -1,7 +1,10 @@
 div{
     width: 50%;
     padding: 10px;
-    background-color: brown;
+    background-color: rgb(238, 232, 232);
     margin: 10px;
     border-radius: 5px;
+    background-image: url(/download.png);
+    background-repeat: no-repeat;
+    
 }
